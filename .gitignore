@@ -1,0 +1,5 @@
+# API 인증키
+scripts/.env
+
+# Vercel 로컬 설정
+.vercel
